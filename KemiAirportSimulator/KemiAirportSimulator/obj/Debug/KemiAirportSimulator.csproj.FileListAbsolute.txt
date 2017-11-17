@@ -1,0 +1,29 @@
+\\nfstu\antmanni\my documents\visual studio 2015\Projects\KemiAirportSimulator\KemiAirportSimulator\bin\Debug\KemiAirportSimulator.exe.config
+\\nfstu\antmanni\my documents\visual studio 2015\Projects\KemiAirportSimulator\KemiAirportSimulator\bin\Debug\KemiAirportSimulator.exe
+\\nfstu\antmanni\my documents\visual studio 2015\Projects\KemiAirportSimulator\KemiAirportSimulator\bin\Debug\KemiAirportSimulator.pdb
+\\nfstu\antmanni\my documents\visual studio 2015\Projects\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.csprojResolveAssemblyReference.cache
+\\nfstu\antmanni\my documents\visual studio 2015\Projects\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.Form1.resources
+\\nfstu\antmanni\my documents\visual studio 2015\Projects\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.Properties.Resources.resources
+\\nfstu\antmanni\my documents\visual studio 2015\Projects\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.csproj.GenerateResource.Cache
+\\nfstu\antmanni\my documents\visual studio 2015\Projects\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.exe
+\\nfstu\antmanni\my documents\visual studio 2015\Projects\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.pdb
+C:\Users\Antza\Documents\Ohra\KemiAirportSimulator\KemiAirportSimulator\bin\Debug\KemiAirportSimulator.exe.config
+C:\Users\Antza\Documents\Ohra\KemiAirportSimulator\KemiAirportSimulator\bin\Debug\KemiAirportSimulator.exe
+C:\Users\Antza\Documents\Ohra\KemiAirportSimulator\KemiAirportSimulator\bin\Debug\KemiAirportSimulator.pdb
+C:\Users\Antza\Documents\Ohra\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Antza\Documents\Ohra\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.Form1.resources
+C:\Users\Antza\Documents\Ohra\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.Form2.resources
+C:\Users\Antza\Documents\Ohra\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.Properties.Resources.resources
+C:\Users\Antza\Documents\Ohra\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.csproj.GenerateResource.Cache
+C:\Users\Antza\Documents\Ohra\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.exe
+C:\Users\Antza\Documents\Ohra\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.pdb
+K:\My Documents\ipsoulu-ohra17mod2-2017-010-318dbf6ec82e\KemiAirportSimulator\KemiAirportSimulator\bin\Debug\KemiAirportSimulator.exe.config
+K:\My Documents\ipsoulu-ohra17mod2-2017-010-318dbf6ec82e\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.exe
+K:\My Documents\ipsoulu-ohra17mod2-2017-010-318dbf6ec82e\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.pdb
+K:\My Documents\ipsoulu-ohra17mod2-2017-010-318dbf6ec82e\KemiAirportSimulator\KemiAirportSimulator\bin\Debug\KemiAirportSimulator.exe
+K:\My Documents\ipsoulu-ohra17mod2-2017-010-318dbf6ec82e\KemiAirportSimulator\KemiAirportSimulator\bin\Debug\KemiAirportSimulator.pdb
+K:\My Documents\ipsoulu-ohra17mod2-2017-010-318dbf6ec82e\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.csprojResolveAssemblyReference.cache
+K:\My Documents\ipsoulu-ohra17mod2-2017-010-318dbf6ec82e\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.Form1.resources
+K:\My Documents\ipsoulu-ohra17mod2-2017-010-318dbf6ec82e\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.Form2.resources
+K:\My Documents\ipsoulu-ohra17mod2-2017-010-318dbf6ec82e\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.Properties.Resources.resources
+K:\My Documents\ipsoulu-ohra17mod2-2017-010-318dbf6ec82e\KemiAirportSimulator\KemiAirportSimulator\obj\Debug\KemiAirportSimulator.csproj.GenerateResource.Cache
